@@ -1,0 +1,3 @@
+[submodule "plugins/WordPress-Plugin-Boilerplate"]
+	path = plugins/WordPress-Plugin-Boilerplate
+	url = https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
