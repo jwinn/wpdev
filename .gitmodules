@@ -1,3 +1,6 @@
 [submodule "plugins/WordPress-Plugin-Boilerplate"]
 	path = plugins/WordPress-Plugin-Boilerplate
 	url = https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
+[submodule "plugins/query-monitor"]
+	path = plugins/query-monitor
+	url = https://github.com/johnbillion/query-monitor
