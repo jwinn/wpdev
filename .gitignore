@@ -7,3 +7,8 @@ wpdata
 .c9
 .idea
 .tmp
+
+/composer.lock
+/readme.txt
+/vendor
+/node_modules
